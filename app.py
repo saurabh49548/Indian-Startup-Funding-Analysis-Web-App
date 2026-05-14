@@ -15,7 +15,7 @@ elif option == 'Startup Analysis':
     st.sidebar.selectbox('Select startup', sorted(df['StartUp'].unique().tolist()))
     st.title('Startup Analysis')
 else:
-    st.sidebar.selectbox('Select Investor', sorted(df_by_investor['Investors'].unique().tolist()))
+    st.sidebar.selectbox('Select Investor', sorted(df_by_investor['Investors'].unique().tolist())git remote -v)
     st.title('Investor Analysis')
 
 

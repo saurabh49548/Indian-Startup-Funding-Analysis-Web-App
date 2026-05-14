@@ -1,5 +1,5 @@
 Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
-1,2020-01-09,Byju’S,E-Tech,E-Learning,Bangalore,Tiger Global Management,Private Equity Round,1888.6
+1,2020-01-09,Byju's,E-Tech,E-Learning,Bangalore,Tiger Global Management,Private Equity Round,1888.6
 2,2020-01-13,Shuttl,Transportation,App Based Shuttle Service,Gurgaon,Susquehanna Growth Equity,Series C,76.00098454200001
 3,2020-01-09,Mamaearth,E-Commerce,Retailer Of Baby And Toddler Products,Bangalore,Sequoia Capital India,Series B,173.36271498000002
 4,2020-01-02,Wealth Bucket,Fintech,Online Investment,New Delhi,Vinod Khatumal,Pre-series A,28.329
@@ -65,7 +65,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 65,2019-07-03,Ola Cabs,Transport,Cabs,Bangalore,"Dig Investment Ab, Deshe Holdings, Samih Toukan  Hussam Khoury",Series J,9.443
 66,2019-07-01,Uniphore,Artificial Intelligence,Speech Recognition,Taramani,March Capital Partners,Series C,359.58944
 67,2019-07-04,Daalchini Technologies,Food And Beverage,Digital Vending Machine,New Delhi,Artha Venture,Seed Round,4.7215
-68,2019-07-10,"""Byju\\'S""",Edtech,Education,Bangalore,Qatar Investment Authority,Private Equity Round,1416.4500000000003
+68,2019-07-10,Byju's,Edtech,Education,Bangalore,Qatar Investment Authority,Private Equity Round,1416.4500000000003
 69,2019-07-11,Moglix,E-Commerce,Industrial Tools And Equipments,Singapore,"Composite Capital Management, Sequoia Capital India, Tiger Global Management",Series D,566.58
 70,2019-07-10,Ezyhaul,Tech,Logistics,Singapore,Undisclosed,Series B,151.088
 71,2019-07-10,Indus Os,Tech,Smartphone Operating System,Mumbai,Ventureast,Series B,54.29725
@@ -111,7 +111,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 113,2019-02-01,Fleetx,Ai,Logistics,Gurgaon,India Quotient  Letsventure Angel Fund,Pre Series A,9.443
 114,2019-02-08,Zilingo,Ecommerce,Fashion & Apparel,India/Singapore,"Sequoia Capital  Temasek Holdings, Edbi, Burda Principal Investments,  Sofina",Series D,2134.118
 115,2019-02-13,Nanoclean Global,Nanotechnology,Anti-Pollution,New Delhi,"Letsventure, Pitchright Venture, 91Springboard, Al Nour International Holdings  Mark V Investments",Series A,5.665800000000001
-116,2018-02-14,Oyorooms,Hospitality,Budget Rooms,Gurgaon,Didi Chuxing,Equity,944.3
+116,2018-02-14,OYO Rooms,Hospitality,Budget Rooms,Gurgaon,Didi Chuxing,Equity,944.3
 117,2019-01-03,Cardekho,Automobile,Online Marketplace,Jaipur,"Sequoia India, Hillhouse Capital, Alphabet Growth Investment Arm Capital G  Axis Bank",Series C,1038.73
 118,2019-01-04,Vyome Therapeutics Inc.,Health And Wellness,Specialty Pharmaceutical,India/US,"Iron Pillar, Perceptive Advisors, Romulus Capital  Kalaari Capital",Series D,207.74600000000004
 119,2019-01-04,Samunnati Financial Intermediation & Services Pvt. Ltd,Finance,Non-Banking Financial Company,Chennai,"Massif, A Dutch Government Fund",Debt-Funding,47.215
@@ -128,7 +128,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 130,2018-11-08,Mobile Premier League,Gaming,Mobile E-Sports,Bangalore,Undisclosed,Series A,4.7215
 131,2018-11-08,A&R Bon Vivants,Food,Meat Retail Chain,Jaipur,"Rb Investments, Singapore",Equity,9.443
 132,2018-11-12,Blackbuck,Food Tech,Pos For Online Ordering,New York/Bengaluru,Tiger Global,Series A,9.443
-133,2018-11-12,Milkbasket,Food,Micro-Delivery Grocery Service,New Delhi,Mayfield Fund,Series B,12.275900000000002
+133,2018-11-12,MilkBasket,Food,Micro-Delivery Grocery Service,New Delhi,Mayfield Fund,Series B,12.275900000000002
 134,2018-11-13,Driveu,Transport,On-Demand Drivers,Bangalore,Stevens Creek Ventures,Mezzanine,9.443
 135,2018-11-14,Cleansecar,Services,Car Wash,Bangalore,Venture Catalysts,Seed/ Angel Funding,4.7215
 136,2018-11-19,Automation Anywhere,Automation,Robotics,California,Softbank Vision Fund,Series B,2832.9000000000005
@@ -169,7 +169,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 171,2018-08-07,Makemytrip,Consumer Internet,Online Travel Aggregator,Gurgaon,Makemytrip Limited,Private Equity,94.43
 172,2018-08-08,Hansel Io,Consumer Internet,Real-Time Mobile App Management,Bangalore,Vertex Ventures,Seed/ Angel Funding,37.772
 173,2018-08-08,Metro Bikes,Consumer Internet,Online Bike Rental Marketplace,Bangalore,"Sequoia Capital India Advisors, Accel Partners  G Raghunan",Private Equity,115.2046
-174,2018-08-08,Phone Pe,Consumer Internet,Upi Payments App,Bangalore,Flipkart,Private Equity,623.238
+174,2018-08-08,PhonePe,Consumer Internet,Upi Payments App,Bangalore,Flipkart,Private Equity,623.238
 175,2018-08-09,Quizizz,Ed-Tech,E-Learning Platform,Bangalore,"Nexus Venture Partners, Prime Venture Partners  Others",Seed/ Angel Funding,28.329
 176,2018-08-09,Happy Emi,Fin-Tech,Consumer Financing Platform,Bangalore,Aj Ventures  Jain International Trade Organisation (Jito),Seed/ Angel Funding,9.443
 177,2018-08-13,Inthree,Consumer Internet,Rural E-Commerce Platform,Chennai,"Ventureast, Orios Venture Partners  The Ian Fund",Seed/ Angel Funding,37.772
@@ -180,7 +180,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 182,2018-08-20,Rawpressery,Consumer Internet,Online Organic Juice Delivery Service,Mumbai,Alteria Capital,Debt Funding,45.32640000000001
 183,2018-08-22,Pi Ventures,Technology,Applied Artificial Intelligence And Iot Focused Platform,Bangalore,Cdc Group Plc,Private Equity,56.658
 184,2018-08-22,Revv,Consumer Internet,Online Indian Car Rental Platform,Gurgaon,"Hyundai, Edelweiss  Beenext, Dream Incubator, Sunjay Kapoor  Telama Investment",Private Equity,134.75161
-185,2018-08-26,Zestmoney,Consumer Internet,Online Lending Platform,Bangalore,"Xiaomi,Payu, Ribbit Capital  Omidyar Network",Private Equity,126.5362
+185,2018-08-26,ZestMoney,Consumer Internet,Online Lending Platform,Bangalore,"Xiaomi,Payu, Ribbit Capital  Omidyar Network",Private Equity,126.5362
 186,2018-08-26,Shubh Loans,Fin-Tech,Customer Sourcing Platform,Bangalore,"Saama Capital, Sri Capital, Beenext,  Pravega Ventures",Private Equity,39.6606
 187,2018-08-27,Myupchar,Healthcare,Local Language Health Content App,New Delhi,"Nexus Venture Partners, Omidyar Network  Shunwei Capital",Private Equity,47.215
 188,2018-08-28,Narvar,It,Post-Purchase Customer Engagement Platform,Bangalore,Accel (Formerly Known As Accel Partners),Private Equity,28.329
@@ -188,7 +188,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 190,2018-07-01,Leena Ai,Technology,Hr Virtual Agent For Employees,Gurgaon,Y Combinator,Seed/ Angel Funding,9.443
 191,2018-07-02,Biryani By Kilo,Consumer Internet,Online Food Delivery,Gurgaon,Ajay Relan  Vinay Mittal,Seed/ Angel Funding,9.443
 192,2018-07-04,Anchanto,It,E-Commerce Fulfilment Platform,Pune,Mdi Ventures & Telkom Indonesia,Private Equity,37.772
-194,2018-07-06,Policybazaar,Consumer Internet,Online Insurance Selling Platform,Gurgaon,Info Edge (India) Ltd  Temasek,Private Equity,261.5711
+194,2018-07-06,PolicyBazaar,Consumer Internet,Online Insurance Selling Platform,Gurgaon,Info Edge (India) Ltd  Temasek,Private Equity,261.5711
 195,2018-07-09,Zippserv,Consumer Internet,Online Platform For Risk-Assessment Services For Real Estate Investments,Bangalore,Info Edge (India) Ltd,Seed/ Angel Funding,4.15492
 196,2018-07-09,Groww,Consumer Internet,Online Platform That Sells Direct Plans Of Mutual Funds,Bangalore,"Insignia Ventures Partners, Lightbridge Partners & Kairos",Seed/ Angel Funding,10.387300000000002
 197,2018-07-10,Avenue Growth,Consumer Internet,Online Platform That Connects Brands With Freelance Sales Professionals,Gurgaon,"Avtar Monga, Chief Operating Office At Idfc Bank, Aditya Malik & Others",Seed/ Angel Funding,4.126591
@@ -202,7 +202,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 205,2018-07-17,Ofbusiness,Finance,Online Lending Platform For Sme,Gurgaon,"Creation Investments, Falcon Edge, Matrix Partners India  Zodius Capital",Private Equity,273.847
 206,2018-07-17,Cars24,Consumer Internet,Online Used Car Marketplace,Gurgaon,"Kingsway Fci Fund, Kck Global & Others",Private Equity,469.3171
 207,2018-07-18,The Ken,Consumer Internet,Subscription-Only News Website,Bangalore,Omidyar Network & Others,Seed/ Angel Funding,14.1645
-208,2018-07-19,Book My Show,Consumer Internet,Online Ticketing Platform,Mumbai,"Tpg Growth, The Rise Fund & Others",Private Equity,944.3
+208,2018-07-19,BookMyShow,Consumer Internet,Online Ticketing Platform,Mumbai,"Tpg Growth, The Rise Fund & Others",Private Equity,944.3
 209,2018-07-20,Housingman,Consumer Internet,Property Discovery Platform,Bangalore,Undisclosed,Seed/ Angel Funding,14.1645
 210,2018-07-21,Paysense,Consumer Internet,Online Consumer Lending Platform,Mumbai,Payu & Others,Private Equity,169.97400000000002
 211,2018-07-23,Yulu Bikes,Technology,Bicycle-Sharing Platform,Bangalore,Undisclosed,Seed/ Angel Funding,9.443
@@ -217,7 +217,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 220,2018-07-26,Bitla Software,Technology,Travel-Focused Tech Startup,Bangalore,Makemytrip,Private Equity,9.443
 221,2018-07-26,Thecapitalnet,Fin-Tech,Unified Global Investments Ecosystem,Hyderabad,Lindwall Family Investments Llc (Lfi),Private Equity,4.7215
 222,2018-07-30,Shuttl,Consumer Internet,Bus Aggregation Platform,Gurgaon,Amazon Alexa Fund & Dentsu Ventures,Private Equity,103.87300000000002
-223,2018-07-30,Cure Fit,Consumer Internet,Health And Fitness Platform,Bangalore,"Idg Ventures, Accel Partners, Kalaari Capital  Others",Private Equity,1133.16
+223,2018-07-30,CureFit,Consumer Internet,Health And Fitness Platform,Bangalore,"Idg Ventures, Accel Partners, Kalaari Capital  Others",Private Equity,1133.16
 224,2018-07-31,Five Star Group,Fin-Tech,Non-Bank Lending Platform For Sme,Chennai,"Tpg, Norwest Venture Partners, Sequoia Capital & Matrix Partners",Private Equity,944.3
 225,2018-07-31,Healthsignz,Healthcare,Health And Well Being Platform,Hyderabad,Kantilal Patel,Seed/ Angel Funding,47.215
 226,2018-06-01,Cointribe,Finance,Credit-Based Lending Marketplace For Small And Medium Enterprises,Gurgaon,"Sabre Partners, Puneet Dalmia & Others",Private Equity,94.43
@@ -227,7 +227,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 230,2018-06-05,Zoctr,Healthcare,Online Healthcare Aggregator,Mumbai,Nb Ventures  Others,Seed/ Angel Funding,9.443
 231,2018-06-07,Annapurna Finance,Finance,Non-Banking Financial Company,Bhubneswar,Oman India Joint Investment Fund (Oijif),Private Equity,217.189
 232,2018-06-07,Meesho,Consumer Internet,Online Marketplace For Resellers,Bangalore,"Sequoia Capital India, Saif Partners, Y Combinator  Venture Highway",Private Equity,108.5945
-233,2018-06-10,Ayefinance,Finance,Online Lending Platform,Gurgaon,"Capitalg, Saif Partners  Lgt Impact Ventures",Private Equity,203.02450000000002
+233,2018-06-10,Aye Finance,Finance,Online Lending Platform,Gurgaon,"Capitalg, Saif Partners  Lgt Impact Ventures",Private Equity,203.02450000000002
 234,2018-06-11,Theranosis,Healthcare,Specialised Diagnostics Platform,Hyderabad,Mumbai Angels Network,Seed/ Angel Funding,9.443
 235,2018-06-12,Alpha Capital,Finance,Supplychain Finance,Mumbai,Alpha Capital,Private Equity,139.7564
 236,2018-06-12,Eshakti,E-Commerce,Fashion E-Tailer,Chennai,Paragon Partners,Private Equity,95.3743
@@ -243,7 +243,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 246,2018-06-19,Rentsher,Consumer Internet,Online Rental Marketplace,Bangalore,"Shorooq Investments, Letsventure & Others",Seed/ Angel Funding,10.387300000000002
 247,2018-06-20,Drip Capital,Finance,Trade Finance Firm,Mumbai,"Accel Partners, Sequoia India, Y Combinator  Others.",Private Equity,141.645
 248,2018-06-22,Wickedride,Consumer Internet,Online Motorbike And Scooter Rental Platforms,Bangalore,"Sequoia Capital, Accel Partners & Raghunan Gangappa",Private Equity,85.93130000000001
-249,2018-06-25,Policybazaar,Consumer Internet,Online Insurance Selling Platform,Gurgaon,Softbank Vision Fund & Info Edge (India) Ltd,Private Equity,1888.6
+249,2018-06-25,PolicyBazaar,Consumer Internet,Online Insurance Selling Platform,Gurgaon,Softbank Vision Fund & Info Edge (India) Ltd,Private Equity,1888.6
 250,2018-06-25,Hipbar,Consumer Internet,Digital Payment Platform For Beverage Delivery,Bangalore,Diageo India,Private Equity,37.772
 251,2018-06-25,Sqqrl,Finance,App-Based Investment Platform,Gurgaon,Equanimity Venture Fund,Seed/ Angel Funding,9.443
 252,2018-06-26,Paytm,Technology,Digital Payment Platform,Noida,One 97 Communications,Private Equity,84.51485000000001
@@ -261,7 +261,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 264,2018-05-14,Nykaa,Consumer Internet,Beauty E-Tailer,Mumbai,"Sunil Munjal, Harsh Mariwala, Dalip Pathak  Others",Private Equity,226.632
 265,2018-05-16,Mfine,Healthcare,Doctor-Consultation App,Bangalore,"Prime Venture Partners, Stellaris Venture Partners  Mayur Abhaya Srisrimal",Private Equity,39.6606
 266,2018-05-21,Rocketium,Technology,Online Video Creation Platform,Bangalore,Blume Ventures,Seed/ Angel Funding,2.8329000000000004
-267,2018-05-21,Milkbasket,Technology,Micro-Delivery Grocery Startup,Gurgaon,"Kalaari Capital, Unilever Ventures  Blume Ventures",Private Equity,66.101
+267,2018-05-21,MilkBasket,Technology,Micro-Delivery Grocery Startup,Gurgaon,"Kalaari Capital, Unilever Ventures  Blume Ventures",Private Equity,66.101
 268,2018-05-22,Vola,Finance,Micro Lending Platform,Bangalore,Credika  Unnamed Angel Investors,Seed/ Angel Funding,4.7215
 269,2018-05-22,Cashkumar,Consumer Internet,P2P Lending Platform,Bangalore,Letsventure,Seed/ Angel Funding,6.940605
 270,2018-05-23,Edyoo,E-Commerce,Products For Shoolgoing Children,Bangalore,Rs Shanbag,Seed/ Angel Funding,6.940605
@@ -289,7 +289,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 292,2018-04-10,Loanzen,Finance,Digital Lending Platform In Logistics,Bangalore,Kae Capital Management,Seed / Angel Funding,9.443
 293,2018-04-10,Traveltriangle,Consumer Internet,Online Travel Marketplace,Gurgaon,"Fundamentum, Saif Partners, Bessemer Venture Partners, Rb Investments & Others",Private Equity,113.316
 294,2018-04-12,Letsmd,Healthcare,Platform To Discover Healthcare Financing Options,New Delhi,"Sri Capital, Waterbridge Ventures  Thinkuvate",Seed / Angel Funding,9.443
-295,2018-04-12,Ayefinance,Finance,Online Lending Platform,Gurgaon,"Blueorchard Finance Ltd, Hinduja Leyl Finance  Intellegrow",Debt Funding,43.4378
+295,2018-04-12,Aye Finance,Finance,Online Lending Platform,Gurgaon,"Blueorchard Finance Ltd, Hinduja Leyl Finance  Intellegrow",Debt Funding,43.4378
 296,2018-04-13,Mintifi,Finance,Online Lending Platform,Mumbai,Lok Capital,Seed / Angel Funding,18.886
 297,2018-04-16,Icanstay,Consumer Internet,Online Platform For Luxury Hotel Stay For Business Travelers,New Delhi,Mr. Manoj Prasad,Seed / Angel Funding,4.7215
 298,2018-04-16,Pregbuddy,Healthcare,Connected Care App For Pregnant Women,Bangalore,"Rajan Anan, Madhusudhan Kannan, Jayant Kadambi, Puneet Gupta  Pradeep K Jaisingh",Seed / Angel Funding,9.443
@@ -325,9 +325,9 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 328,2018-03-08,Pepperfry,Consumer Internet,Online Furniture Shopping Store,Mumbai,State Street Global Advisors,Private Equity,362.61120000000005
 329,2018-03-08,Magicpin,Consumer Internet,Hyperlocal Discovery,Gurgaon,Trifecta Capital,Debt Funding,9.443
 330,2018-03-12,Healthcare,Consumer Internet,Healthcare Aggregator,Mumbai,Hr Fund,Seed / Angel Funding,9.443
-331,2018-03-13,Pinelabs,Technology,Digital Payment Platform,Mumbai,"Actis, Altimeter Capital",Private Equity,774.3260000000001
+331,2018-03-13,Pine Labs,Technology,Digital Payment Platform,Mumbai,"Actis, Altimeter Capital",Private Equity,774.3260000000001
 332,2018-03-14,Stumagz,Consumer Internet,Online Communication And Collaboration Platform For Educational Institutions,Hyderabad,"Venkat Subramanian, Sudhakar Pennam,  Other Tech Investors From Silicon Valley",Seed / Angel Funding,9.443
-333,2018-03-14,Availfinance,Consumer Internet,Online Lending Platform,Bangalore,"Matrix Partners, Bhavish Aggarwal, Ankit Bhati, Binny Bansal, Kunal Shah  Manish Patel.",Private Equity,162.4196
+333,2018-03-14,Avail Finance,Consumer Internet,Online Lending Platform,Bangalore,"Matrix Partners, Bhavish Aggarwal, Ankit Bhati, Binny Bansal, Kunal Shah  Manish Patel.",Private Equity,162.4196
 334,2018-03-15,Grofers,Consumer Internet,Online Grocery Shop,Gurgaon,"Softbank, Tiger Global  Apoletto Managers.",Private Equity,585.466
 335,2018-03-19,Fingerlix,Consumer Internet,Ready To Cook Food Solution,Mumbai,Alteria Capital,Debt Funding,12.370330000000001
 336,2018-03-19,Karma Healthcare,Healthcare,Technology Enabled Equitable Healthcare For India,Udaipur,"1Crowd, Ankur Capital",Seed / Angel Funding,4.7215
@@ -372,7 +372,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 376,2018-02-15,Infibeam,E-Commerce,Online Retailing,Ahmedabad,Network 18,Private Equity,58.82989
 377,2018-02-16,Happay,Finance,Expense Management,Bangalore,Sequoia  Jerry Yang,Seed / Angel Funding,2.36075
 378,2018-02-16,Fincash,Finance,Fin-Tech,Mumbai,"Mohammed Khan, Sameer Narayan & Others",Seed / Angel Funding,1.4164500000000002
-379,2018-02-19,Ayefinance,Finance,Online Lending,Gurgaon,"Hinduja Leyl Finance, Intellegrow",Private Equity,35.8834
+379,2018-02-19,Aye Finance,Finance,Online Lending,Gurgaon,"Hinduja Leyl Finance, Intellegrow",Private Equity,35.8834
 380,2018-02-20,Agricxlab,Agriculture,Agri-Tech,Mumbai,Ankur Capital,Seed / Angel Funding,4.7215
 381,2018-02-21,Udaan,E-Commerce,B2B Marketplace,Bangalore,Lightspeed & Yuri Milner,Private Equity,472.15
 382,2018-02-21,Capillary,It,Saas,Bangalore,"Wargburg Pincus, Sequoia",Private Equity,188.86
@@ -407,7 +407,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 411,2018-01-22,Skillate,Technology,Artificial Intellegence,Bangalore,"Incubate Fund India, Anuj Agrawal",Private Equity,9.443
 412,2018-01-22,Optacredit,Finance,Alternative Lending,Chennai,Dmi Finance,Private Equity,37.772
 413,2018-01-22,Aeon Learning,Technology,Education,Bangalore,Dr. Ranjan Pai,Private Equity,30.2176
-414,2018-01-23,Milkbasket,E-Commerce,Online Grocery,Gurgaon,Unilever Ventures,Private Equity,28.329
+414,2018-01-23,MilkBasket,E-Commerce,Online Grocery,Gurgaon,Unilever Ventures,Private Equity,28.329
 415,2018-01-24,Neogrowth Credit,Finance,Digital Lending,Mumbai,"Leapfrog Investments, Aspada Investment, Quona Capital",Private Equity,443.821
 416,2018-01-24,Rao Iit Academy,Education,Coaching Services,Mumbai,Avendus Finance,Structured Debt,81.2098
 417,2018-01-24,Aye Finance,Finance,Online Lending,Gurgaon,Ifmr Capital,Term Loan,58.92432
@@ -420,7 +420,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 424,2018-01-30,Browserstack,Technology,Browser Testing,Mumbai,Accel Partners,Private Equity,472.15
 425,2018-01-30,Scapic,Technology,Virtual Reality,Bangalore,"Axilor Ventures, Newfort Capital",Angel / Seed Funding,4.7215
 426,2018-01-30,Moneyonmobile,Technology,Mobile Payment Platform,Mumbai,Undisclosed Investors,Private Equity,71.7668
-427,2018-01-30,Curefit,Healthcare,Fitness,Bangalore,"Hdfc Bank, Axis Bank",Debt Funding,94.43
+427,2018-01-30,CureFit,Healthcare,Fitness,Bangalore,"Hdfc Bank, Axis Bank",Debt Funding,94.43
 428,2018-01-31,Inurture,Technology,Education Solutions,Bangalore,Ventureast,Private Equity,41.549200000000006
 429,2017-12-01,Strata Enviro,Technology,Iot Based Air Pollution Controller,Mumbai,Scale Minds,Private Equity,9.443
 430,2017-12-05,Dunzo,Technology,Daily Task Management Mobile App,Bangalore,Google,Private Equity,116.1489
@@ -520,7 +520,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 524,2017-10-03,Ola Cabs,Consumer Internet,App Based Cab Hailing Services,Bangalore,"Tencent, Softbank Group",Private Equity,1038.73
 525,2017-10-04,Elanic,Consumer Internet,P2P Platform For Fashion Sales,Bangalore,Digital Garage,Seed Funding,9.443
 526,2017-10-04,Collpoll,Consumer Internet,Education Collaboration Platform,Bangalore,Sprout Angels,Seed Funding,2.8895580000000005
-527,2017-10-04,Phonepe,Consumer Internet,Digital Wallet,Bangalore,Flipkart,Private Equity,365.44410000000005
+527,2017-10-04,PhonePe,Consumer Internet,Digital Wallet,Bangalore,Flipkart,Private Equity,365.44410000000005
 528,2017-10-05,Little Black Book,Consumer Internet,Local Recommendations And Discoveries Platform,New Delhi,"Blume Ventures, Idg Ventures & Indian Angel Network",Private Equity,9.443
 529,2017-10-05,Oorjan,Technology,Rooftop Solar Platform,Mumbai,Globevestor,Seed Funding,4.24935
 530,2017-10-05,Zefo,Ecommerce,Ecommerce Portal For Used Goods,Bangalore,"Sequoia India, Helion Venture Partners, Beenext",Private Equity,86.8756
@@ -539,18 +539,18 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 543,2017-10-11,Meesho,Ecommerce,Online Reseller Network,Bangalore,"Saif Partners, Ycombinator, Venture Highway",Private Equity,29.2733
 544,2017-10-11,Stanplus,Logistics,Medical Transportation Services,Hyderabad,Kstart Capital,Private Equity,10.387300000000002
 545,2017-10-12,Uclid,Technology,"Education Network For Institutions, Teachers & Students",Hyderabad,Undisclosed Investors,Seed Funding,2.219105
-546,2017-10-13,Policy Bazaar,Consumer Internet,Online Insurance Policy Aggregator,Gurgaon,"Wellington Management, Dg Ventures India, True North",Private Equity,727.1110000000001
+546,2017-10-13,PolicyBazaar,Consumer Internet,Online Insurance Policy Aggregator,Gurgaon,"Wellington Management, Dg Ventures India, True North",Private Equity,727.1110000000001
 547,2017-10-13,Gapoon,Consumer Internet,Home Maintenance Services Platform,Bangalore,"Vida Ventures, Snehal Mantri, Anshu Bahadur",Seed Funding,2.36075
 548,2017-10-13,Chaayos,Ecommerce,Online Chai Ordering Platform,Gurgaon,Tiger Global Management,Private Equity,18.886
 549,2017-10-16,Krazybee,Consumer Internet,Micro-Lending Platform,Bangalore,"Xiaomi Technologies, Shunwei Capital",Private Equity,75.544
-550,2017-10-16,Renew Buy,Consumer Internet,Online Insurance Aggregator,New Delhi,Amicus Capital,Private Equity,86.8756
+550,2017-10-16,RenewBuy,Consumer Internet,Online Insurance Aggregator,New Delhi,Amicus Capital,Private Equity,86.8756
 551,2017-10-17,Fingerlix,Consumer Internet,Food Ordering Portal,Bangalore,"Accel Partners, Zephyr Peacock",Private Equity,66.101
 552,2017-10-18,Bank Bazaar,Consumer Internet,Online Financial Marketplace,Chennai,Experian,Private Equity,66.101
 553,2017-10-18,Hasura,Technology,App Building Platform,Chennai,"Nexus, Gree Ventures",Private Equity,9.443
 554,2017-10-18,Blackbuck,Logistics,B2B Logistics Provider,Bangalore,Innoven Capital,Private Equity,72.7111
 555,2017-10-18,Lenden Club,Consumer Internet,Online Peer-To-Peer Lending Platform,Mumbai,Undisclosed Investor,Seed Funding,4.7215
 556,2017-10-23,Toppr,Consumer Internet,Mobile Based Learning App,Mumbai,"Saif Partners, Helion Ventures, Fil Capital Management",Private Equity,66.101
-557,2017-10-23,Raw Pressery,Food & Beverage,Cold Pressed Juice Maker,Mumbai,"Dsg Consumer Partners, Sequoia Capital, Saama Capital",Private Equity,56.658
+557,2017-10-23,RawPressery,Food & Beverage,Cold Pressed Juice Maker,Mumbai,"Dsg Consumer Partners, Sequoia Capital, Saama Capital",Private Equity,56.658
 558,2017-10-23,Cashe,Consumer Internet,App-Only Lending Platform,Mumbai,Ifmr Capital,Debt Funding,29.2733
 559,2017-10-23,Park Easy,Consumer Internet,Machine Learning Based Parking Discovery,Kolkata,Rockstart Accelerator,Seed Funding,1.114274
 560,2017-10-24,Tagbox,Technology,Cold Chain Monitoring Solution,Bangalore,"Indian Angel Network, Ian Fund",Seed Funding,9.443
@@ -580,7 +580,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 584,2017-09-06,Power2Sme,Ecommerce,Buying Club For Small Businesses,Gurgaon,"International Finance Corporation (Ifc), Inventus Capital Partners, Accel Partners, Kalaari Capital,  Nan Nilekani,",Private Equity,245.518
 585,2017-09-07,Credit Vidya,Consumer Internet,Online Credit Scoring Platform,Mumbai,Matrix Partners,Private Equity,47.215
 586,2017-09-07,Tails Life,Consumer Internet,Pet Care Portal & Mobile App,Bangalore,V Balakrishnan.,Private Equity,9.443
-587,2017-09-07,Oyo Rooms,Consumer Internet,Branded Budget Hotels Marketplace,Gurgaon,"Softbank Group, Sequoia Capital India, Lightspeed Venture Partners, Greenoaks Capital, Hero Enterprise",Private Equity,2360.75
+587,2017-09-07,OYO Rooms,Consumer Internet,Branded Budget Hotels Marketplace,Gurgaon,"Softbank Group, Sequoia Capital India, Lightspeed Venture Partners, Greenoaks Capital, Hero Enterprise",Private Equity,2360.75
 588,2017-09-07,Early Salary,Consumer Internet,Online Unsecured Lending Platform,Pune,Ifmr Capital,Debt Funding,7.36554
 589,2017-09-07,Mamaearth,Ecommerce,Online Babycare Products Marketplace,Gurgaon,Fireside Ventures,Seed Funding,9.443
 590,2017-09-07,Seniority,Ecommerce,Ecommerce Portal For Senior Citizens,Pune,Rpg Enterprises,Private Equity,9.443
@@ -594,7 +594,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 598,2017-09-12,Get My Parking,Consumer Internet,Smart Parking Enabler,New Delhi,"Ian Fund, Beenext, Indian Angel Network",Private Equity,28.329
 599,2017-09-13,Wittyfeed,Technology,Content Marketing Platform,Indore,"An Chrasekaran, Apurva Chamaria, Ritesh Malik, Ashish Toshniwal, Ajeet Khurana",Seed Funding,9.443
 600,2017-09-13,Glowroad,Consumer Internet,Women Focussed Customer-To-Customer Reseller Network,Bangalore,"Accel Partners,",Private Equity,18.886
-601,2017-09-13,Oyo Rooms,Consumer Internet,Udget Hotel Marketplace,Gurgaon,China Lodging Group,Private Equity,94.43
+601,2017-09-13,OYO Rooms,Consumer Internet,Udget Hotel Marketplace,Gurgaon,China Lodging Group,Private Equity,94.43
 602,2017-09-13,Unacademy,Consumer Internet,Online Learning Platform,Mumbai,"Sequoia Capital India, Saif Partners, Nexus Venture Partners  Blume Ventures,",Private Equity,108.5945
 603,2017-09-13,Heterogenous,Technology,Telecom & Iot Platform,Chennai,"Chennai Angels, Keiretsu Forum & Others",Seed Funding,7.36554
 604,2017-09-14,Gurukul,Consumer Internet,Co-Working Space Provider,New Delhi,"Rohit Na, Rajit Na, Smarak Bhuyan, Sashwat Brahma,",Seed Funding,9.443
@@ -657,7 +657,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 661,2017-08-21,Cerebroz,Consumer Internet,E-Tech Platform,Vadodara,Undisclosed Hni,Seed Funding,6.931162
 662,2017-08-22,Flochat,Consumer Internet,Instant Messaging Platform,Mumbai,"Isquare Global,",Seed Funding,9.443
 663,2017-08-22,Easygov,Consumer Internet,Govt Service Application Portal,Noida,"Social Alpha, Rajan Anan, Rajeev Ahuja, Kshitij Arora",Seed Funding,9.443
-664,2017-08-23,Milk Basket,Consumer Internet,Online Grocery Platform,Gurgaon,Blume Ventures. Lenovo Capital  Incubator Group (Lcig),Seed Funding,9.443
+664,2017-08-23,MilkBasket,Consumer Internet,Online Grocery Platform,Gurgaon,Blume Ventures. Lenovo Capital  Incubator Group (Lcig),Seed Funding,9.443
 665,2017-08-23,Dhruva,Technology,Cloud Data Protection And Management Solutions,Pune,"Riverwood Capital, Sequoia Capital India, Nexus Venture Partners, Tenaya Capital",Private Equity,755.44
 666,2017-08-23,Bombay Shaving Company,Ecommerce,Men Grooming Product Etailer,New Delhi,Fireside Ventures,Private Equity,21.7189
 667,2017-08-23,Awign,Technology,Operations And Manpower Outsourcing,Bangalore,"Iit Ropar, Imanpreet Singh Arora, Sidharth Rozario, Saurabh Abichani, Shikhar Gupta,",Seed Funding,9.443
@@ -666,7 +666,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 670,2017-08-25,Ink Monk,Consumer Internet,Online Printing Marketplace,Chennai,"Vamm Ventures, Raksul, Dena",Seed Funding,7.08225
 671,2017-08-25,Medinfi,Consumer Internet,Online Doctor Discovery Platform,Bangalore,"Pbs Srinivas, Vinod Martin,",Seed Funding,1.180375
 672,2017-08-28,Mobikon,Technology,Restaurant & Hotel Crm Platform,Pune,"Sistema Asia Fund, C31 Ventures, Qualgro.",Private Equity,66.101
-673,2017-08-29,Curefit,Consumer Internet,End To End Health And Wellness Platform.,Bangalore,"Accel Partners, Idg Ventures, Kalaari Capital, Uc-Rnt Fund",Private Equity,236.075
+673,2017-08-29,CureFit,Consumer Internet,End To End Health And Wellness Platform.,Bangalore,"Accel Partners, Idg Ventures, Kalaari Capital, Uc-Rnt Fund",Private Equity,236.075
 674,2017-08-29,Doxper,Technology,Healthtech Iot Platform,Mumbai,"Idal Health, Growx Ventures, Capier Investments, Globevestor & Others",Seed Funding,7.08225
 675,2017-08-29,Fieldassist,Technology,Saas Based Sales Force Automation Services,Gurgaon,Small Industries Development Bank Of India (Sidbi),Debt Funding,9.443
 676,2017-08-30,Treebo,Consumer Internet,Budget Hotel Aggregator Platform,Bangalore,"Ward Ferry Management  Karst Peak Capital,",Private Equity,321.062
@@ -706,7 +706,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 710,2017-07-21,Monsoon Fintech,Technology,Machine Learning Access Platform,New Delhi,"Sunil Kalra, Aditya Singh, Rishi Srivastava, Rajan Anan",Seed Funding,9.443
 711,2017-07-21,Monkeybox,Consumer Internet,Healthy Food Delivery Platform,Bangalore,"Blume Ventures, Nb Ventures, Nspira",Seed Funding,9.443
 712,2017-07-25,Noticeboard,Consumer Internet,Mobile-First Enterprise Communication Platform,Bangalore,"Stellaris Venture Partners,",Private Equity,11.331600000000002
-713,2017-07-25,Byju'S,Consumer Internet,Mobile Learning App,Bangalore,Tencent Holdings,Private Equity,330.50500000000005
+713,2017-07-25,Byju's,Consumer Internet,Mobile Learning App,Bangalore,Tencent Holdings,Private Equity,330.50500000000005
 714,2017-07-26,Creator'S Gurukul,Others,Co-Working Space Provider,New Delhi,Yuvraj Singh,Seed Funding,9.443
 715,2017-07-26,Fab Hotels,Consumer Internet,Budget Hotels Brand & Aggregator Platform,New Delhi,Goldman Sachs,Private Equity,236.075
 716,2017-07-26,Thinkerbell,Consumer Internet,Assisted Learning Startup,Bangalore,"Indian Angel Network, An Mahindra",Seed Funding,1.8886
@@ -798,7 +798,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 802,2017-05-08,Devourin,Technology,Restaurant Automation Solution,Pune,Deepak Nathani,Seed Funding,9.443
 803,2017-05-08,Mygreens,Food & Beverage,Cold-Press Juices Manufacturer,New Delhi,"Ajay Relan, Letsventure",Seed Funding,9.443
 804,2017-05-08,Ace Turtle,Technology,Omni-Channel Platform,Bangalore,"Vertex Ventures, C31 Ventures",Private Equity,47.215
-805,2017-05-08,Curefit,Technology,Health-Tech Platform,Bangalore,"Trifecta Capital Advisors Llp, Prathithi Investment Trust, Rnt Capital, Gokul Rajaram, Aditya Agarwal, Ruchi Sanghvi & Others",Private Equity,30.2176
+805,2017-05-08,CureFit,Technology,Health-Tech Platform,Bangalore,"Trifecta Capital Advisors Llp, Prathithi Investment Trust, Rnt Capital, Gokul Rajaram, Aditya Agarwal, Ruchi Sanghvi & Others",Private Equity,30.2176
 806,2017-05-09,Curie Labs,Technology,Energy Analytics Startup,New Delhi,Satoshi Studios,Seed Funding,0.47215
 807,2017-05-09,Uncanny Vision,Technology,Computer Vision On Embedded Systems,Bangalore,An Chrasekaran,Seed Funding,9.443
 808,2017-05-09,Anchanto,Technology,Ecommerce Fulfilment And Technology Platform,Pune,Luxasia Group,Private Equity,9.443
@@ -812,7 +812,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 816,2017-05-11,Book My Diamond,Ecommerce,Diamond B2B Etailer,Mumbai,Chirag Nikunj Sheth & Others,Seed Funding,9.443
 817,2017-05-11,Ion Energy,Technology,Clean Tech Startup,Mumbai,"Aakrit Vaish, Swapan Rajdev, Sushill Jiwarajka",Seed Funding,9.443
 818,2017-05-12,Legal Raasta,Consumer Internet,Legal Services To Smes & Individuals,New Delhi,Impanix Capital,Private Equity,47.215
-819,2017-05-12,Log 9 Materials,Technology,Nanotech Product Developer,Bangalore,Gems,Seed Funding,9.443
+819,2017-05-12,Log9 Materials,Technology,Nanotech Product Developer,Bangalore,Gems,Seed Funding,9.443
 820,2017-05-12,Remit Guru,Consumer Internet,Digital Money Transfer Platform,Mumbai,"Infibeam, Ccavenue",Private Equity,4.400438
 821,2017-05-12,Aequm,Ecommerce,Cloud Ecommerce Platform,Bangalore,Undisclosed Investors,Seed Funding,9.443
 822,2017-05-15,Zapty,Technology,Project Management Tool,Bangalore,Ideaspring Capital,Seed Funding,4.7215
@@ -887,7 +887,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 891,2017-04-15,Myly,Consumer Internet,Mobile App For Schools,Jaipur,Mall Industries Development Bank Of India (Sidbi),Seed Funding,2.9273300000000004
 892,2017-04-17,Credihealth,Consumer Internet,Online Medical Assistance Platform,Gurgaon,"Tolaram Inc, Mountain Pine Capital",Private Equity,14.1645
 893,2017-04-17,Navia Life Care,Technology,Health Technology Platform,New Delhi,Benori Ventures Llp,Seed Funding,9.443
-894,2017-04-17,Raw Pressery,Food & Beverages,Raw Pressed Juices Manufacturer,Mumbai,Jacqueline Fernez,Seed Funding,9.443
+894,2017-04-17,RawPressery,Food & Beverages,Raw Pressed Juices Manufacturer,Mumbai,Jacqueline Fernez,Seed Funding,9.443
 895,2017-04-17,Snackible,Food & Beverages,Healthy Snacks Manufacturer,Mumbai,"Nibhrant Shah, Anbir Singh, Anirudh Sheth, Pratik Singhi, Vikram Mehta, Murali Nair",Seed Funding,1.6525250000000002
 896,2017-04-17,Be U Salons,Consumer Internet,Online Salon Discovery & Booking Services,New Delhi,"Gaurav Kachru, Sundeep Singh Sahni, Jatin Aneja, Arun Malhotra",Seed Funding,5.854660000000001
 897,2017-04-17,Simulanis,Consumer Internet,Elearning & Skills Development Plat,New Delhi,Village Capital,Seed Funding,9.443
@@ -900,7 +900,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 904,2017-04-20,Wooplr,Ecommerce,Social Commerce  Fashion Platform,Bangalore,Ankit Nagori,Private Equity,9.443
 905,2017-04-21,Video Ken,Consumer Internet,Video Based Collaborative Learning,Bangalore,"Ravi Garikipati, Surot Chatterjee, Ashish Agrawal, Lg Chrasekhar, Sashi Reddi",Seed Funding,9.443
 906,2017-04-24,Faasos,Food & Beverage,Qsr Chain And Online Food Delivery,Pune,"Ligthbox Ventures Ii, Lightbox Expansion Fund, Sequoia Capital India, Runet South Asia, Rb Investments",Private Equity,59.4909
-907,2017-04-24,Oyo Rooms,Consumer Internet,Branded Budget Hotels Aggregator,Gurgaon,"Softbank Vision Fund, Lightspeed Venture Partners, Sequoia Capital India Advisors, Greenoaks Capital Partners",Private Equity,2360.75
+907,2017-04-24,OYO Rooms,Consumer Internet,Branded Budget Hotels Aggregator,Gurgaon,"Softbank Vision Fund, Lightspeed Venture Partners, Sequoia Capital India Advisors, Greenoaks Capital Partners",Private Equity,2360.75
 908,2017-04-24,Toppr,Consumer Internet,Learning Mobile App For Students,Mumbai,Wgg International,Private Equity,30.2176
 909,2017-04-24,Niramai,Healthcare,Breast Cancer Screening Solutions,Bangalore,"Pi Ventures, Axilor Ventures, 500 Startups, Binny Bansal",Seed Funding,9.443
 910,2017-04-25,The Office Pass,Consumer Internet,Coworking Spaces Booking Platform,Gurgaon,"Arun Tadanki, Aditya Verma",Seed Funding,2.313535
@@ -977,7 +977,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 981,2017-03-29,Zapyle,Ecommerce,Luxury Fashion Marketplace,Bangalore,Undisclosed Investors,Seed Funding,9.443
 982,2017-03-29,Ithaka,Consumer Internet,Vacation Trip Planning Platform,Mumbai,"Ankit Gupta, Puneet Motihar",Seed Funding,3.0689750000000005
 983,2017-03-29,Perpule,Ecommerce,Self-Checkout Ecommerce App,Bangalore,Kstart Capital,Seed Funding,6.137950000000001
-984,2017-03-29,Byju'S,Consumer Internet,Online Education Platform,Bangalore,Verlinvest,Private Equity,9.443
+984,2017-03-29,Byju's,Consumer Internet,Online Education Platform,Bangalore,Verlinvest,Private Equity,9.443
 985,2017-03-29,Licious,Ecommerce,Online Meat Ordering Platform,Bangalore,"Mayfield India, 3One4 Capital, Sistema Asia Fund, Neoplux Technology Fund",Private Equity,94.43
 986,2017-03-29,Medinfi,Consumer Internet,Doctor & Hospital Search Platform,Bangalore,"Vinod Martin, Hemant Kaul, Prof. Ram Kumar Kakani & Others",Seed Funding,0.47215
 987,2017-03-30,Indus Os,Technology,Mobile Os Creator,Mumbai,"Jsw Ventures, Ventureast",Private Equity,9.443
@@ -1015,7 +1015,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1019,2017-02-14,Ccavenue,Consumer Internet,Online Payment Gateway,Mumbai,Infibeam,Private Equity,211.52320000000003
 1020,2017-02-14,Connaizen,Technology,Data Analytics Platform,New Delhi,Vikram Sud,Seed Funding,9.443
 1021,2017-02-15,Innov8,Consumer Internet,Co-Working Space Platform,New Delhi,"Vijay Shekhar Sharma, Rajan Anan, Kunal Shah, Girish Mathrubootham, Punit Soni, An Chrasekaran, Sunil Kalra, Utsav Somani, Vishal Gondal, Vikram Limaye",Seed Funding,9.443
-1022,2017-02-15,Zestmoney,Consumer Internet,Online Consumer Lending Platform,Bangalore,"Payu, Ribbit Capital, Omidyar Network",Private Equity,61.3795
+1022,2017-02-15,ZestMoney,Consumer Internet,Online Consumer Lending Platform,Bangalore,"Payu, Ribbit Capital, Omidyar Network",Private Equity,61.3795
 1023,2017-02-15,Airzaar,Technology,Drone Operations Management Platform,Missourie,Quake Capital,Seed Funding,3.3050500000000005
 1024,2017-02-16,Truebil,Consumer Internet,Online Marketplace For Used Cars,Mumbai,Shunwei Capital,Private Equity,28.329
 1025,2017-02-16,Yourstory,Consumer Internet,Online Media,Bangalore,"Kalaari Capital Partners, Qualcomm, 3One4 Capital Advisors, Uc-Rnt",Private Equity,28.329
@@ -1054,7 +1054,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1058,2017-01-10,Medinfi,Consumer Internet,Doctor & Clinic Discovery Portal,Bangalore,"Vinod Martin, Evan Lim, Kanchan Ghoshal, Ram Kumar Kakani",Seed Funding,0.9443
 1059,2017-01-10,Lenskart,Ecommerce,Online Eyewear Retailer,Bangalore,Ronnie Screwvala,Private Equity,33.0505
 1060,2017-01-11,Instaoffice,Consumer Internet,Coworking Spaces Booking Platform,Gurgaon,"Zishaan Hayath, Karan Chellani, Mohit Satyan",Seed Funding,9.443
-1061,2017-01-12,Hansel.Io,Consumer Internet,Real-Time Mobile App Management Platform,Bangalore,"Idg Ventures, Endiya Partners",Private Equity,12.748050000000001
+1061,2017-01-12,Hansel Io,Consumer Internet,Real-Time Mobile App Management Platform,Bangalore,"Idg Ventures, Endiya Partners",Private Equity,12.748050000000001
 1062,2017-01-12,Square Yards,Consumer Internet,Property Search Aggregator Platform,Gurgaon,"Lohia Group, Andre Hoffman",Private Equity,94.43
 1063,2017-01-13,Roambee,Technology,Iot Smart Logistics And Asset Management Company,Mumbai,Deutsche Telekom Strategic Investments & Others,Private Equity,38.7163
 1064,2017-01-13,Paisawapas,Consumer Internet,Cashback & Coupons Platform,Bangalore,Vividhity Ventures,Seed Funding,9.443
@@ -1091,7 +1091,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1095,2017-01-24,Selectjobs,Consumer Internet,Online Job Portal,Mumbai,India Educational Investment Fund,Seed Funding,9.443
 1096,2017-01-24,Khel Now,Consumer Internet,Mobile-Based Social Platform For Sports,Bangalore,Indochine International,Private Equity,4.7215
 1097,2017-01-24,Nowfloats,Consumer Internet,Platform To Take Businesses Online,Hyderabad,"Iron Pillar  Iifl, Blume Ventures, Omidyar Network",Private Equity,94.43
-1098,2017-01-24,Lets Transport,Consumer Internet,Online Transport Vehicle Booking Platform,Bangalore,"Gmo Japan, Neelesh Bhatnagar",Private Equity,37.772
+1098,2017-01-24,LetsTransport,Consumer Internet,Online Transport Vehicle Booking Platform,Bangalore,"Gmo Japan, Neelesh Bhatnagar",Private Equity,37.772
 1099,2017-01-24,Betaout,Technology,Ecommerce Marketing Software,Noida,East Ventures & Others,Private Equity,9.443
 1100,2017-01-25,Wishberry,Consumer Internet,Crowdfunding Platform,Mumbai,"Sharad Sharma, Rajan Anan, Amit Ranjan, Alok Mittal & Others",Seed Funding,9.443
 1101,2017-01-25,Rml Agtech,Technology,Agri Decision Support Solution For Farmers,Pune,Ivycap Ventures,Private Equity,37.772
@@ -1127,7 +1127,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1131,2016-12-07,Revv,Consumer Internet,Self-Driven Car Services Booking Portal,New Delhi,Edelweiss Private Equity,Private Equity,84.98700000000001
 1132,2016-12-07,Wealthapp,Consumer Internet,Online Investment Advisory Platform,Bangalore,"Venk Krishnan, Mj Aravind, Vikram Kotak, Jayant Davar, Ramkumar Nishtal, Arjun Sharmaa",Seed Funding,4.15492
 1133,2016-12-07,Vehico,Technology,Connected Transportation Solutions,Bangalore,"Calcutta Angel Network, Appliyifi",Seed Funding,9.443
-1134,2016-12-08,Zest Money,Consumer Internet,Online Consumer Lending Platform,Mumbai,Payu,Private Equity,61.3795
+1134,2016-12-08,ZestMoney,Consumer Internet,Online Consumer Lending Platform,Mumbai,Payu,Private Equity,61.3795
 1135,2016-12-08,Gomechanic,Consumer Internet,Online Car Servicing Booking Platform,Gurgaon,Venture Catalysts,Seed Funding,2.36075
 1136,2016-12-09,Stalk Buy Love,Ecommerce,Fashion Apparel Etailer,New Delhi,Kalaari Capital,Private Equity,56.658
 1137,2016-12-09,Nykaa,Ecommerce,Beauty Products Etailer,Mumbai,Max Ventures  Industries,Private Equity,9.443
@@ -1158,7 +1158,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1162,2016-12-20,Vivocarat,Ecommerce,Online Jewellery Marketplace,Mumbai,Undisclosed Investors,Seed Funding,0.47215
 1163,2016-12-20,Tiyo,Consumer Internet,Doctor Search Mobile App,Kolkata,Ajith Nair,Seed Funding,9.443
 1164,2016-12-20,Zoomcar,Consumer Internet,Self-Driven Cab Booking Platform,Bangalore,Cyber Carrier Cl,Private Equity,9.443
-1165,2016-12-20,Byju'S,Consumer Internet,Online Learning Platform,Bangalore,International Financial Corporation,Private Equity,141.645
+1165,2016-12-20,Byju's,Consumer Internet,Online Learning Platform,Bangalore,International Financial Corporation,Private Equity,141.645
 1166,2016-12-21,Supr Daily,Consumer Internet,Daily Subscription Based Delivery Service,Mumbai,"Dr. Apoorv Ranjan Sharma, Anil Jain, Anuj Golecha, Krishna Jhunjhunwala, Anirudh Damani",Seed Funding,9.443
 1167,2016-12-21,The Bluebook,Consumer Internet,Online To Offline Marketing Platform,Bangalore,"Indian Angel Network, Let Venture",Seed Funding,4.7215
 1168,2016-12-21,Mamaearth,Ecommerce,Babycare Products Seller,New Delhi,Fireside Ventures & Others,Seed Funding,9.443
@@ -1224,7 +1224,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1228,2016-11-22,Awesummly,Consumer Internet,Short News Mobile App,Bangalore,"Vivek Bhargava, Ameera Shah",Seed Funding,1.3881210000000002
 1229,2016-11-22,Volt,Consumer Internet,Ed-Tech Platform,Mumbai,Yms Mobitech,Seed Funding,9.443
 1230,2016-11-22,Vymo,Technology,Saas-Based Predictive Analytics Platform,Bangalore,Sequoia India,Private Equity,47.215
-1231,2016-11-22,Shubhloans,Technology,Consumer Finance & Credit Score Platform,Bangalore,"Sanjai Vohra, V. Bunty Bohra",Seed Funding,9.443
+1231,2016-11-22,Shubh Loans,Technology,Consumer Finance & Credit Score Platform,Bangalore,"Sanjai Vohra, V. Bunty Bohra",Seed Funding,9.443
 1232,2016-11-22,Noddapp,Consumer Internet,App Based Networking Platform,Mumbai,Undisclosed Multiple Investors,Seed Funding,1.3881210000000002
 1233,2016-11-23,Knowlarity,Consumer Internet,Cloud Telephony Platform,Bangalore,"Delta Partners, Sequoia India, Mayfield, Blacksoil, Trifecta Capital",Private Equity,188.86
 1234,2016-11-23,Infisecure,Technology,Bot Protection Solutions,Mumbai,"Idg Ventures, Axilor Ventures",Seed Funding,5.665800000000001
@@ -1294,7 +1294,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1298,2016-10-14,Beatroute,Technology,Saas Based Mobile Application Platform,Gurgaon,Quarizon Consultancy Services Llp,Seed Funding,9.443
 1299,2016-10-14,Kidsstoppress,Consumer Internet,Parenting And Baby Care Platform,Mumbai,Karan Bhagat,Seed Funding,9.443
 1300,2016-10-14,Innov8,Consumer Internet,Co-Working Spaces Aggregator,Bangalore,Punit Soni,Seed Funding,9.443
-1301,2016-10-15,Dailyhunt,Consumer Internet,Vernacular Content Mobile App,Bangalore,"Bytedance, Arun Sarin, Matrix Partners, Sequoia Capital India, Omidyar Network, Falcon Edge",Private Equity,236.075
+1301,2016-10-15,Daily Hunt,Consumer Internet,Vernacular Content Mobile App,Bangalore,"Bytedance, Arun Sarin, Matrix Partners, Sequoia Capital India, Omidyar Network, Falcon Edge",Private Equity,236.075
 1302,2016-10-15,Tazzo Bikes,Consumer Internet,Motorbike Rental Platform,Hyderabad,Dsg Consumer Partners,Seed Funding,2.143561
 1303,2016-10-15,Mykindofjob,Consumer Internet,Internet & Fresher Job Platform,Mumbai,"Mayank Shah, Shreyans Shah",Seed Funding,9.443
 1304,2016-10-17,Trilyo,Technology,B2B Saas Based Product,Bangalore,"Vishnu Bhat, Rajiv Lunkad, Naresh Ravindranath",Seed Funding,9.443
@@ -1350,7 +1350,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1354,2016-09-07,Prozo,Ecommerce,Study Material Marketplace,Gurgaon,"Earlsfield Capital, Sailender Solanki, Rajiv Solanki",Seed Funding,2.9745450000000004
 1355,2016-09-08,Toprankers,Education,Online Test Preparation Platform,Bangalore,"Careernet Consulting Pvt. Ltd, Ideation Initiative Pvt. Ltd,",Seed Funding,6.326810000000001
 1356,2016-09-08,Buildtraders,Ecommerce,Online Construction Materials Marketplace,Bangalore,Idein Ventures,Seed Funding,1.8886
-1357,2016-09-09,Byju'S,Education,Online Learning App,Bangalore,"Chan Zuckerberg Initiative, Times Internet Ltd, Sequoia Capital, Sofina, Lightspeed Ventures",Private Equity,472.15
+1357,2016-09-09,Byju's,Education,Online Learning App,Bangalore,"Chan Zuckerberg Initiative, Times Internet Ltd, Sequoia Capital, Sofina, Lightspeed Ventures",Private Equity,472.15
 1358,2016-09-09,Nobroker,Consumer Internet,Online Home Rental Platform,Bangalore,An Chrasekaran,Seed Funding,9.443
 1359,2016-09-10,Freshboxx,Ecommerce,Fruits & Vegetable Etailer,Hubli,Ravi Linganuri,Seed Funding,9.443
 1360,2016-09-10,Cureinstant,Consumer Internet,Social Health Networking Platform,New Delhi,Dr. Rameshwar Kumar,Seed Funding,1.4164500000000002
@@ -1392,7 +1392,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1396,2016-09-23,Parentlane,Consumer Internet,Social Platform For Babycare And Parenting,Bangalore,Rohit Ma,Seed Funding,9.443
 1397,2016-09-23,First Moms Club,Consumer Internet,Social Network For Mothers,Mumbai,Idea Wave Labs,Seed Funding,9.443
 1398,2016-09-23,Inmotion,Technology,Financial Platform For Daily Wage Earning Communities,Noida,"Prashant Ton, Gaurav Agarwal, Gaurav Bhogle, Shrishti Sahu, Shantanu Mathur, Prabhat Aggarwal",Seed Funding,9.443
-1399,2016-09-26,Let\Xe2\X80\X99S Barter,Consumer Internet,Goods & Services Barter Platform,New Delhi,Scale Ventures Funds,Seed Funding,9.443
+1399,2016-09-26,Let Xe2 X80 X99S Barter,Consumer Internet,Goods & Services Barter Platform,New Delhi,Scale Ventures Funds,Seed Funding,9.443
 1400,2016-09-26,Evengini,Consumer Internet,Event Registration And Ticketing Platform,Chennai,Procam International Pvt. Ltd,Private Equity,9.443
 1401,2016-09-27,Tinystep,Consumer Internet,Parenting Network Platform,Bangalore,Flipkart Logistics Pvt. Ltd,Private Equity,14.91994
 1402,2016-09-27,Canvs,Consumer Internet,Community Platform For Artists And Designers,Mumbai,Pratik Seal,Seed Funding,9.443
@@ -1440,7 +1440,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1444,2016-08-12,Funcastic,Consumer Internet,B2C Vernacular Podcast Aggregator Platform,New Delhi,"Ht Media Ltd, North Base Media",Seed Funding,9.443
 1445,2016-08-15,Buttercups,Ecommerce,Women Intimate Wear Etailer,Bangalore,"An Chrasekaran, Kanwaljit Singh, Manoj Varghese",Seed Funding,9.443
 1446,2016-08-16,Zappfresh,Ecommerce,Raw Meat Products Etailer,Gurgaon,Ashvin Chadha,Seed Funding,9.443
-1447,2016-08-16,Oyorooms,Consumer Internet,Budget Hotels Aggregator,New Delhi,Softbank Group,Private Equity,585.466
+1447,2016-08-16,OYO Rooms,Consumer Internet,Budget Hotels Aggregator,New Delhi,Softbank Group,Private Equity,585.466
 1448,2016-08-16,Hike,Consumer Internet,Mobile Messaging App,New Delhi,"Tencent Holdings, Foxconn Technology Group, Tiger Global, Softbank Group, Bharti Enterprises",Private Equity,1652.525
 1449,2016-08-16,Joolz,Ecommerce,Online Jewellery Store,Mumbai,"Powerhouse Ventures, M&S Partners",Private Equity,4.7215
 1450,2016-08-16,Salebhai,Ecommerce,"Sweets, Dry Fruits & Handicrafts Etailer",Ahmedabad,Br Capital,Private Equity,14.1645
@@ -1499,13 +1499,13 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1503,2016-07-01,Pressplay Tv,Consumer Internet,Video Content Discovery Platform,New Delhi,"Sequoia Capital, Sd Ventures, Vistaar Investment Advisors Pvt. Ltd.",Private Equity,9.443
 1504,2016-07-02,Playment,Consumer Internet,Mobile Marketplace For Crowdsourced Work,Bangalore,Saif Partners,Private Equity,6.610100000000001
 1505,2016-07-04,Wealthtrust,Consumer Internet,Wealth Management App,Mumbai,India Quotient,Seed Funding,9.443
-1506,2016-07-04,Curefit,Consumer Internet,Online Preventive Healthcare Platform,Bangalore,"Accel Partners, Idg Ventures, Kalaari Capital",Private Equity,141.645
+1506,2016-07-04,CureFit,Consumer Internet,Online Preventive Healthcare Platform,Bangalore,"Accel Partners, Idg Ventures, Kalaari Capital",Private Equity,141.645
 1507,2016-07-04,Stitchwood,Ecommerce,Custom Furniture Online,Mumbai,Deepak Gupta,Seed Funding,1.8886
 1508,2016-07-04,Grab.In,Logistics,Hyperlocal Logistics Service,Mumbai,Aramex Ventures Llc,Private Equity,18.886
 1509,2016-07-04,Fulfil.Io,Consumer Internet,Cloud Based Erp Software,US,Rajan Anan,Seed Funding,9.443
 1510,2016-07-04,Neogrowth,Finance,Sme Lending Platform,Mumbai,"Iifl Wealth Management Seed Venture Fund, Omidyar Network, Khosla Impact, Aspada",Private Equity,151.088
 1511,2016-07-05,Seedoc,Consumer Internet,Video Based Doctor Consulting Platform App,Gurgaon,Yournest Angel Fund & Others,Private Equity,9.443
-1512,2016-07-05,Bookmyshow,Consumer Internet,Event & Movie Ticketing Platform,Mumbai,"Stripes Group, Network 18, Accel Partners, Saif Partners",Private Equity,774.3260000000001
+1512,2016-07-05,BookMyShow,Consumer Internet,Event & Movie Ticketing Platform,Mumbai,"Stripes Group, Network 18, Accel Partners, Saif Partners",Private Equity,774.3260000000001
 1513,2016-07-05,Flyrobe,Ecommerce,Online Fashion Rental Platform,Mumbai,"Sequoia Capital, Rohit Bansal, Kunal Bahl, Seep Ton, Kunal Shah, Zishaan Hayath, Abhishek Jain",Seed Funding,16.0531
 1514,2016-07-06,Happilyunmarried,Ecommerce,Online Merchandize Etailer,New Delhi,Info Edge (India) Ltd,Private Equity,6.98782
 1515,2016-07-06,Don'T Scratch Your Head,Technology,Full Stack Offline & Online Erp Solution,Ahmedabad,"Gaurav Singhvi, Zaffiro Ventures",Seed Funding,2.36075
@@ -1801,7 +1801,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1808,2016-04-26,Transerv,Consumer Internet,Digital Payments Platform,Mumbai,"Idfc Spice Fund, Micromax Informatics",Private Equity,141.645
 1809,2016-04-26,Cleartax,Consumer Internet,Online Filing Of Tax Returns,Bangalore,"Max Levchin, Scott Banister",Private Equity,12.275900000000002
 1810,2016-04-26,Roposo,Ecommerce,Social Fashion Ecommerce Discovery Platform,Gurgaon,Bertelsmann India Investments,Private Equity,141.645
-1811,2016-04-27,Milkbasket,Consumer Internet,Micro Grocery Delivery Platform,Gurgaon,Evc Ventures,Seed Funding,4.7215
+1811,2016-04-27,MilkBasket,Consumer Internet,Micro Grocery Delivery Platform,Gurgaon,Evc Ventures,Seed Funding,4.7215
 1813,2016-04-27,Railyatri,Consumer Internet,Train Related Information Portal,Noida,"Nan Nilekani, Helion Ventures, Omidyar Networks, Blume Ventures",Private Equity,9.443
 1814,2016-04-27,Ichr,Consumer Internet,Mobile Based Children Health Information App,New Delhi,Undisclosed,Seed Funding,4.24935
 1815,2016-04-27,Murgency,Consumer Internet,Medical Emergency Response App,Mumbai,Axilor Ventures,Private Equity,9.443
@@ -1870,7 +1870,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1878,2016-03-21,Oneclickwash,Consumer Internet,Online Laundry & Washing Service Booking & Delivery,Gurgaon,Unitus Seed Fund,Seed Funding,9.443
 1879,2016-03-21,Girnar Software,Consumer Internet,Online News Media Network,Jaipur,Google Capital,Private Equity,9.443
 1880,2016-03-21,Room On Call,Consumer Internet,Budget Hotel Aggregator,Gurgaon,Cashurdrive Marketing Pvt Ltd,Private Equity,18.886
-1881,2016-03-22,Byju'S,Consumer Internet,Educational Video Content Creator,Bangalore,"Sequoia India, Sofina",Private Equity,708.2250000000001
+1881,2016-03-22,Byju's,Consumer Internet,Educational Video Content Creator,Bangalore,"Sequoia India, Sofina",Private Equity,708.2250000000001
 1882,2016-03-22,Bigbasket,Ecommerce,Online Grocery Shop,Bangalore,Abraaj Group,Private Equity,1416.4500000000003
 1883,2016-03-22,Drivojoy,Consumer Internet,On-Demand 2-Wheeler Servicing Platform,Bangalore,"Indian Angel Network, Tracxn Labs & Others",Seed Funding,5.665800000000001
 1884,2016-03-22,Smartron,Technology,Internet Of Things Device Manufacturer,Bangalore,Sachin Tendulkar,Private Equity,9.443
@@ -1922,7 +1922,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 1932,2016-02-08,Gray Routes,Consumer Internet,Last Mile Logistics Solutions,Mumbai,"Mahesh Parasuraman, Rahul Gautam & Others",Seed Funding,9.443
 1933,2016-02-08,Xpressbees,Ecommerce,Ecommerce Logistics Solutions,Pune,"Saif Partners, Idg Ventures India, Vertex Ventures, Valiant Capital",Private Equity,118.0375
 1934,2016-02-08,Invictus Oncology,Healthcare,Cancer Therapeutic Info & Solutions,New Delhi,Ratan Tata,Private Equity,9.443
-1935,2016-02-08,Hansel.Io,Technology,Mobile App Tech Solutions,Bangalore,"Endiya Partners, Mekin Maheshwari, Rajesh Sawhney",Seed Funding,9.443
+1935,2016-02-08,Hansel Io,Technology,Mobile App Tech Solutions,Bangalore,"Endiya Partners, Mekin Maheshwari, Rajesh Sawhney",Seed Funding,9.443
 1936,2016-02-09,Inc42,Consumer Internet,Startup Focused Media News Portal,New Delhi,"India Ventures, Aarin Capital & Others",Seed Funding,9.443
 1937,2016-02-09,Goqii,Technology,Personalized Fitness Coaching & Fitness Band,Mumbai,Edelweiss Financial Services,Private Equity,9.443
 1938,2016-02-10,Capzest,Consumer Internet,Digital Lending Platform,Mumbai,Lion Ventures,Seed Funding,1.8886
@@ -2001,12 +2001,12 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 2011,2016-01-05,Mychild App,Education,Child Disorder Information & Education,Bhopal,"Samir Bangara, Anisha Mittal, Amit Gupta, Pallav Nadhani, Lalit Mangal, Arihant Patni, Dr. Ritesh Malik, Deobrat Singh, Saurab Paruthi, Singapore Angel Network.",Seed Funding,0.9443
 2012,2016-01-05,Instaproc,Ecommerce,B2B Procurement Marketplace For Office Products,Noida,Dinesh Agarwal,Seed Funding,9.443
 2013,2016-01-05,360Ride,Consumer Internet,Ride Sharing Platform,Bangalore,Undisclosed,Seed Funding,1.4164500000000002
-2014,2016-01-05,Alef\\Nmobitech,Consumer Internet,Cloud Mobility Solutions,Mumbai,Tata Capital Innovation Fund,Private Equity,47.215
+2014,2016-01-05,Alef  Nmobitech,Consumer Internet,Cloud Mobility Solutions,Mumbai,Tata Capital Innovation Fund,Private Equity,47.215
 2015,2016-01-06,Tracxn,Bfsi,Startup Funding Deal Discovery & Execution Platform,Bangalore,Ratan Tata,Seed Funding,9.443
 2016,2016-01-06,Qdesq,Real Estate,Branded Workspaces Aggregator,Gurgaon,"Dheeraj Jain, Jagdish Kumar, Bharat Gupta, Ankush Saigal, Praveen Saini",Seed Funding,9.443
 2017,2016-01-06,Sensara,Technology,"Tv Search, Guide And Remote Mobile App",Bangalore,"Lalitesh Katragadda, Ganayantrika Systems",Seed Funding,7.08225
 2018,2016-01-06,Zebpay,Consumer Internet,Bitcoin Buying & Selling Mobile App,Ahmedabad,"Arjun Ha, Amit Jindal, Nagendra Chaudhary",Private Equity,9.443
-2019,2016-01-06,Planmy\\Nmedicaltrip,Healthcare,Medical Tourism Platform,Pune,"Bhanu Vikram Parsotam, Rohan Desai  Paras Patel",Seed Funding,1.4164500000000002
+2019,2016-01-06,Planmy  Nmedicaltrip,Healthcare,Medical Tourism Platform,Pune,"Bhanu Vikram Parsotam, Rohan Desai  Paras Patel",Seed Funding,1.4164500000000002
 2020,2016-01-06,Mycity4Kids,Education,Children Education & Information Platform,Gurgaon,"Sidbi Venture Capital Limited, Yournest Angel Fund",Private Equity,28.329
 2021,2016-01-06,Justdakhila.Com,Education,School Student Admissions Platform,New Delhi,Ankur Gupta,Seed Funding,7.08225
 2022,2016-01-07,Pitstop,Consumer Internet,Automobile Service Booking App,Bangalore,Myntra/Livspace Founders,Seed Funding,9.443
@@ -2421,7 +2421,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 2431,2015-09-18,Curejoy,Online Health & Wellness,Unknown,Bangalore,"Accel Partners, Subrata Mitra, Larry Braitman, Venk Krishna",Private Equity,10.85945
 2432,2015-09-18,Briston Technomach,Internet Of Things,Unknown,New Delhi,Undisclosed,Seed Funding,1.4164500000000002
 2433,2015-09-18,Labstreet,Diagnostic Labs Aggregator,Unknown,Gurgaon,Multiple Investors,Seed Funding,1.4164500000000002
-2434,2015-09-19,Dailyninja,Hyperlocal Delivery,Unknown,Bangalore,"Aprameya Radhakrishna, Naman Sarawagi, Afsal Salu,",Seed Funding,9.443
+2434,2015-09-19,Daily Ninja,Hyperlocal Delivery,Unknown,Bangalore,"Aprameya Radhakrishna, Naman Sarawagi, Afsal Salu,",Seed Funding,9.443
 2435,2015-09-21,Portea Medical,Home Medical Care,Unknown,Bangalore,"Accel Partners, International Finance Corporation (Ifc), Qualcomm Ventures, Ventureast",Private Equity,354.11250000000007
 2436,2015-09-21,Neotrade Analytics,Real-Time Stock Data,Unknown,Bangalore,Rainmatter,Seed Funding,2.219105
 2437,2015-09-21,Dishco,Food Discovery & Table Booking,Unknown,Mumbai,"An Mahindra, Uday Punj, Ashish Hemrajani, Sanjeev Mehra",Seed Funding,9.443
@@ -2464,7 +2464,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 2474,2015-08-03,Connect India,Ecommerce Logistics Provider,Unknown,New Delhi,Aavishkaar,Private Equity,47.215
 2475,2015-08-03,The Home Salon,On-Demand Home Beauty And Wellness Portal,Unknown,Mumbai,Venturenursery,Seed Funding,9.443
 2476,2015-08-03,Jusride,Self Driven Car Rental,Unknown,Mumbai,"Alok Mittal, Zeeshan Hayat, Niraj Singh, Nikunj Jain, Anirudh Damani, Punit Goyal",Seed Funding,9.443
-2477,2015-08-03,Oyorooms,Budget Hotel Accommodation Brand,Unknown,New Delhi,"Softbank Group, Greenoaks Capital, Sequoia Capital, Lightspeed India",Private Equity,944.3
+2477,2015-08-03,OYO Rooms,Budget Hotel Accommodation Brand,Unknown,New Delhi,"Softbank Group, Greenoaks Capital, Sequoia Capital, Lightspeed India",Private Equity,944.3
 2478,2015-08-03,Glowship,Energy & Environment Online,Unknown,Bangalore,Infuse Ventures,Seed Funding,9.443
 2479,2015-08-03,Wizrocket,User Engagment & Analytics,Unknown,Mumbai,"Sequoia Capital, Accel Partners",Private Equity,90.65280000000001
 2480,2015-08-04,Pickingo,On-Demand Delivery Logistics,Unknown,New Delhi,"Orios Venture Partners, Zishaan Hayath",Private Equity,12.275900000000002
@@ -2604,7 +2604,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 2616,2015-07-14,Hackerrank,Tech Recruitment,Unknown,Bangalore,Hr Technology Fund,Private Equity,70.8225
 2617,2015-07-14,Wickedride,Bike Rental,Unknown,Bangalore,Undisclosed,Seed Funding,7.45997
 2618,2015-07-14,Wowexpress,Tech Enabled Logistics,Unknown,Mumbai,Tamarind Family Private Trust,Seed Funding,4.7215
-2619,2015-07-15,Oyo Rooms,Budget Hotel Accommodation,Unknown,Gurgaon,"Softbank, Sequoia Capital",Private Equity,944.3
+2619,2015-07-15,OYO Rooms,Budget Hotel Accommodation,Unknown,Gurgaon,"Softbank, Sequoia Capital",Private Equity,944.3
 2620,2015-07-15,Mobikon,Restaurant Customer Engagement,Unknown,Pune,Jungle Ventures,Private Equity,21.7189
 2621,2015-07-15,Instalively.Com,Live Video Streaming,Unknown,New Delhi,"Anupam Mittal, An Chrasekaran, Uday Shankar, Chetan Bhagat",Seed Funding,9.443
 2622,2015-07-15,Roadrunnr,Hyper Local Logistics,Unknown,Bangalore,"Sequoia Capital, Nexus Venture Partners, Blume Ventures",Private Equity,103.87300000000002
@@ -2801,7 +2801,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 2818,2015-04-07,Loginext,Logistics Tech,Unknown,Mumbai,"Ajit Surana, Sanjay Mehta",Seed Funding,9.443
 2819,2015-04-08,Firstcry.Com,Ecommerce,Unknown,Pune,"Silicon Valley Ventures, Nea Ventures, Valiant Capital, Idg Ventures India, Saif Partners, Vertex Ventures",Private Equity,94.43
 2820,2015-04-08,Mobikwik,Digital / Mobile Wallet,Unknown,Gurgaon,"Tree Line Asia, Cisco Investments, American Express, Sequoia Capital",Private Equity,236.075
-2821,2015-04-08,Olacabs,Cab Aggregator,Unknown,Bangalore,"Dst Global, Steadview Capital, Tiger Global, Accel Partners & Others",Private Equity,3777.2
+2821,2015-04-08,Ola Cabs,Cab Aggregator,Unknown,Bangalore,"Dst Global, Steadview Capital, Tiger Global, Accel Partners & Others",Private Equity,3777.2
 2822,2015-04-09,Gadgetwood,Device Repair Svcs,Unknown,New Delhi,"Ajai Chowdhry, Ashvin Chadha, Yogesh Bansal,\\Nnitin Singhal & Others",Seed Funding,1.8886
 2823,2015-04-09,Bonhomia,Premium Beverages,Unknown,New Delhi,"Kanwaljit Singh, Shripad Nadkarni, Sarvesh Shahra & Others",Seed Funding,18.886
 2824,2015-04-09,Changer Mints,Digital / Mobile Wallet,Unknown,Kolkata,Hyderabad Based Investor,Seed Funding,1.5580950000000002
@@ -2817,7 +2817,7 @@ Sr_No,Date,StartUp,Vertical,SubVertical,Location,Investors,Round,Amount
 2835,2015-04-14,Localoye,Hyper-Local Online,Unknown,Mumbai,"Tiger Global Management, Lightspeed Venture Partners",Private Equity,47.215
 2836,2015-04-15,Grofers,Hyper-Local Online/Mobile Grocery,Unknown,Gurgaon,"Tiger Global, Sequoia Capital",Private Equity,330.50500000000005
 2837,2015-04-15,Peppertap,Hyper-Local Online/Mobile Grocery,Unknown,Gurgaon,"Saif Partners, Sequoia Capital",Private Equity,94.43
-2838,2015-04-15,Policybazaar,Online Policy Aggregator,Unknown,Gurgaon,"Premjiinvest, Tiger Global, Ribbit Capital",Private Equity,377.72
+2838,2015-04-15,PolicyBazaar,Online Policy Aggregator,Unknown,Gurgaon,"Premjiinvest, Tiger Global, Ribbit Capital",Private Equity,377.72
 2839,2015-04-16,Urbanclap,Hyperlocal Mobile,Unknown,New Delhi,"Saif Partners, Accel Partners, Kunal Bahl, Rohit Bansal",Seed Funding,15.1088
 2840,2015-04-16,Taskbob,Ondemand Mobile Handyman,Unknown,Mumbai,"Orios Venture Partners, Mayfield India",Seed Funding,11.331600000000002
 2841,2015-04-17,Robosoft,Mobile Development,Unknown,Udupi,"Ascent Capital, Kalaari Capital",Private Equity,113.316
