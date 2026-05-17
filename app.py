@@ -19,10 +19,48 @@ df = pd.read_csv('D:\Startup_dashboard\Data\processed\clean_startup_data.csv',pa
 #Making sidebar
 st.sidebar.title('Indian Startup Funding Analysis')
 
-option = st.sidebar.selectbox("Select one", ['Overall Analysis','Startup Analysis','Investor Analysis'])
+option = st.sidebar.selectbox("Select one", ['Overall Analysis','Startup Insights','Investor Insights'])
+
+def load_overall_analysis():
+        st.title('Startup Ecosystem Overview')
+
+        col1,col2,col3,col4 = st.columns(4)
+
+        #Total funding amount
+        tot_amt = round(df['Amount'].sum())
+        
+        #Max amount infused in a startup or max ticket size
+        max_amt = df.groupby('StartUp')['Amount'].max().sort_values(ascending=False).head(1).values[0]
+        
+        #Average Ticket Size
+        avg_amt = round(df.groupby('StartUp')['Amount'].sum().mean(),2)
+        
+        #Number of Startups
+        num_startups = df['StartUp'].nunique()
+
+        with col1:
+            #Total funding amount
+            st.metric("Total Funding Amount",f"{tot_amt} Cr")
+
+        with col2:
+            #Max amount infused in a startup
+            st.metric("Max Infused Amount",f"{max_amt} Cr")
+
+        with col3:
+            #Average per startup
+            st.metric("Average Funding per Startup",f"{avg_amt} Cr")
+
+        with col4:
+            #Number of Startups
+            st.metric("Number of Funded Startups",f"{num_startups}")
+
+        
+        
+
 
 def load_investor_details(investor):
     st.title(investor)
+    
     #Load the recent 5 investments of the investor
     last_5 = df[df['Investors'].str.contains(investor)].head()[['Date','StartUp','Vertical','Location','Round','Amount']]
     st.subheader('Recent Investments')
@@ -108,19 +146,22 @@ def load_investor_details(investor):
 
 #Overall Analysis
 if option ==  'Overall Analysis':
-    st.title('Overall Analysis')
+    but0 = st.sidebar.button('Show Overall Analysis')
+    if but0:
+        load_overall_analysis()
+
 
 #Startup Analysis
-elif option == 'Startup Analysis':
+elif option == 'Startup Insights':
     st.sidebar.selectbox('Select startup', sorted(df['StartUp'].unique().tolist()))
     btn1 = st.sidebar.button('Find Startup Details')
-    st.title('Startup Analysis')
+    st.title('Startup Insights')
 
 #Investor Analysis
 else:
     selected_investor = st.sidebar.selectbox('Select Investor', sorted(set(df['Investors'].str.split(',').sum())))
     btn2 = st.sidebar.button('Find Investor details')
-    st.title('Investor Analysis')
+    st.title('Investor Insights')
 
     if btn2:
         load_investor_details(selected_investor)
