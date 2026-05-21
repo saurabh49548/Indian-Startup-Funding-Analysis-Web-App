@@ -14,7 +14,8 @@ st.set_page_config(
 )
 
 df = pd.read_csv('D:\Startup_dashboard\Data\processed\clean_startup_data.csv',parse_dates=['Date'])
-
+df['Year']=df['Date'].dt.year   #Extracting year from Date column
+df['Month']=df['Date'].dt.month #Extracting month from Date column
 
 #Making sidebar
 st.sidebar.title('Indian Startup Funding Analysis')
@@ -53,6 +54,60 @@ def load_overall_analysis():
         with col4:
             #Number of Startups
             st.metric("Number of Funded Startups",f"{num_startups}")
+
+        #Amount of funding per quarter 
+        st.subheader("Monthly Funding Analysis")
+        selected_option = st.selectbox("Select Option",['Total Investment','Number of Startups Funded'])
+
+        if selected_option == 'Total Investment':
+            temp_df1= df.groupby(['Year','Month'])['Amount'].sum().reset_index()
+            temp_df1['x-axis']= temp_df1['Month'].astype('str') + '-' + temp_df1['Year'].astype('str')
+
+            fig,ax = plt.subplots(figsize=(12, 6))
+            ax.plot(temp_df1['x-axis'],temp_df1['Amount'],marker='o')
+            plt.xticks(temp_df1['x-axis'][::4],rotation = 45)
+            plt.ylabel('Amount(in Crores)',fontsize = 12)
+            plt.xlabel('Month',fontsize = 12)
+            st.pyplot(fig)
+
+        else:
+            temp_df2 = df.groupby(['Year','Month'])['StartUp'].count().reset_index()
+            temp_df2['x-axis'] = temp_df2['Month'].astype('str') + '-' + temp_df2['Year'].astype('str')
+
+            fig1, ax1 = plt.subplots(figsize=(12, 6))
+            ax1.plot(temp_df2['x-axis'],temp_df2['StartUp'],marker='o')
+            plt.xticks(temp_df2['x-axis'][::4],rotation = 45)
+            plt.ylabel('Number of Startups Funded',fontsize = 12)
+            plt.xlabel('Month',fontsize = 12)
+            st.pyplot(fig1)
+        
+        col5,col6 = st.columns(2)
+        with col5:
+            # Location wise funding analysis
+            location_series = df.groupby('Location')['Amount'].sum().sort_values(ascending=False).head()
+            st.subheader('Geographical Investment Distribution')
+            fig2,ax2 = plt.subplots()
+            ax2.bar(location_series.index,location_series.values)
+            plt.title('Top Investment Locations',fontsize = 12)
+            plt.ylabel('Amount(in Crores)',fontsize=12)
+            plt.xlabel('Location',fontsize=12)
+            st.pyplot(fig2)
+        
+        with col6:
+            # Sector wise funding analysis
+            st.subheader('Sector Wise Analysis')
+            select_option = st.selectbox('Select Option',['Top Sectors by Investment Value','Top Sectors by Startup Count'])
+            if select_option == 'Top Sectors by Investment Value':
+                
+                sector_series1 = df.groupby('Vertical')['Amount'].sum().sort_values(ascending = False).head()
+                fig3,ax3 = plt.subplots()
+                wedges, texts = ax3.pie(sector_series1)
+                ax3.pie(sector_series1,autopct='%1.1f%%')
+                ax3.legend(sector_series1.index,title="Sectors",loc="center left")
+                ax3.legend(wedges,sector_series1.index,title="Sectors",loc="center left",bbox_to_anchor=(1, 0.5))
+                plt.title('Top Funded Sectors (By Capital)',fontsize=12)
+                st.pyplot(fig3)
+
 
         
         
@@ -129,8 +184,6 @@ def load_investor_details(investor):
     
 
     #Investment trend over Time
-    df['Year']=df['Date'].dt.year   #Extracting year from Date column
-
     yearly_investment = df[df['Investors'].str.contains(investor)].groupby('Year')['Amount'].sum().reset_index()
     st.subheader('Investment trend over Time')
 
@@ -146,8 +199,6 @@ def load_investor_details(investor):
 
 #Overall Analysis
 if option ==  'Overall Analysis':
-    but0 = st.sidebar.button('Show Overall Analysis')
-    if but0:
         load_overall_analysis()
 
 
