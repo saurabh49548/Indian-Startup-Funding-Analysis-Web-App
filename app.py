@@ -13,7 +13,7 @@ st.set_page_config(
     page_icon = "📊"
 )
 
-df = pd.read_csv('D:\Startup_dashboard\Data\processed\clean_startup_data.csv',parse_dates=['Date'])
+df = pd.read_csv('D:\Startup_dashboard\Data\processed\startup_data.csv',parse_dates=['Date'])
 df['Year']=df['Date'].dt.year   #Extracting year from Date column
 df['Month']=df['Date'].dt.month #Extracting month from Date column
 
@@ -95,7 +95,7 @@ def load_overall_analysis():
         
         with col6:
             # Sector wise funding analysis
-            st.subheader('Sector Wise Analysis')
+            st.subheader('Sector-wise Investment Analysis')
             select_option = st.selectbox('Select Option',['Top Sectors by Investment Value','Top Sectors by Startup Count'])
             if select_option == 'Top Sectors by Investment Value':
                 
@@ -103,11 +103,19 @@ def load_overall_analysis():
                 fig3,ax3 = plt.subplots()
                 wedges, texts = ax3.pie(sector_series1)
                 ax3.pie(sector_series1,autopct='%1.1f%%')
-                ax3.legend(sector_series1.index,title="Sectors",loc="center left")
                 ax3.legend(wedges,sector_series1.index,title="Sectors",loc="center left",bbox_to_anchor=(1, 0.5))
                 plt.title('Top Funded Sectors (By Capital)',fontsize=12)
                 st.pyplot(fig3)
+            
+            if select_option == 'Top Sectors by Startup Count':
+                sector_series2= df.groupby('Vertical')['StartUp'].count().sort_values(ascending = False).head()
+                fig4,ax4 = plt.subplots()
+                ax4.pie(sector_series2,autopct='%1.1f%%')
+                wedges,texts = ax4.pie(sector_series2)
+                ax4.legend(wedges,sector_series2.index,title="Sectors",loc="center left",bbox_to_anchor=(1, 0.5))
+                plt.title('Most Active Sectors (By Number of Deals)',fontsize = 12)
 
+                st.pyplot(fig4)
 
         
         
