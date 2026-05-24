@@ -292,10 +292,7 @@ def load_investor_details(investor):
     plt.xticks(yearly_investment['Year'])
     st.pyplot(fig5)
 
-    #Top Investors
-    top_inves = df.groupby('Investors')['StartUp'].count().sort_values(ascending=False).head()
-    st.subheader('Top Investor')
-
+    
   
 
 #Overall Analysis
