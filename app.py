@@ -4,6 +4,7 @@ from streamlit.elements import deck_gl_json_chart
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.ticker
 
 #Setting page layout
 st.set_page_config(
@@ -117,6 +118,93 @@ def load_overall_analysis():
 
                 st.pyplot(fig4)
 
+        st.subheader('Funding Stage Analysis')
+        funding_series = df.groupby('Round').agg({'Amount' : 'sum','StartUp' : 'count'}).reset_index().sort_values(by= 'Amount',ascending=False)
+        select_option1= st.selectbox('Select Option',['Total Investment by Funding Stage','Number of Deals by Funding Stage'])
+
+        if select_option1 == 'Total Investment by Funding Stage':
+            fig5, ax5 = plt.subplots(figsize = (10,4))
+            
+            ax5.bar(funding_series['Round'],funding_series['Amount'], width= 0.5, label='Amount')
+            ax5.set_xticks(funding_series['Round'])
+            ax5.set_xticklabels(funding_series['Round'], rotation=45)
+            ax5.set_xlabel('Funding Stage')
+            ax5.set_yscale('log')  # adjust as per my data
+            ax5.get_yaxis().set_major_formatter(plt.ScalarFormatter())
+            ax5.set_ylabel('Investment Amount in Cr')
+            ax5.set_title('Funding Stage (By Capital)')
+            st.pyplot(fig5)
+        
+        if select_option1 == 'Number of Deals by Funding Stage':
+            fig6,ax6 = plt.subplots(figsize = (10,4))
+            ax6.bar(funding_series['Round'],funding_series['StartUp'], width= 0.5, label = 'No. of Deals')
+            ax6.set_xticks(funding_series['Round'])
+            ax6.set_xticklabels(funding_series['Round'], rotation=45)
+            ax6.set_xlabel('Funding Stage')
+            ax6.set_yscale('log')  # adjust as per my data
+            ax6.get_yaxis().set_major_formatter(plt.ScalarFormatter())   # Show normal numbers instead of 10^x
+            ax6.set_ylabel('No. of Deals')
+            ax6.set_title('Funding Stage (By No. of Deals)')
+            st.pyplot(fig6)
+        
+        col7,col8 = st.columns(2)
+        with col7:
+            # Year-wise Top Startups
+            temp = df.groupby(['Year', 'StartUp'])['Amount'].sum().reset_index().sort_values(['Year', 'Amount'], ascending=[True, False]).groupby('Year').head(1).sort_values('Year')
+            st.subheader('Highest Funded Startup Each Year')
+            fig6, ax6 = plt.subplots(figsize=(13,7))
+
+            ## Convert Year to string (better x-axis control)
+            ax6.bar(temp['Year'].astype(str), temp['Amount'], width = 0.5)
+
+            # Add startup names on bars
+            for i in range(len(temp)):
+                ax6.text(
+                    i,   # position fix 
+                    temp['Amount'].iloc[i] + temp['Amount'].max()*0.02,
+                    temp['StartUp'].iloc[i],
+                    ha='center',
+                    fontsize=8
+                )
+            ax6.set_xlabel('Year')
+            ax6.set_ylabel('Funding Amount (Cr)')
+
+            st.pyplot(fig6)
+
+        with col8:
+            #Top Investors 
+            st.subheader('Top investors (by number of deals)')
+            df_temp = df.copy()
+            df_temp['Investors'] = df['Investors'].str.split(',')
+            top_investor = df_temp['Investors'].explode().str.strip().value_counts()
+            top_investor = top_investor[top_investor.index != 'Undisclosed'].head(10)
+
+            fig7,ax7 = plt.subplots(figsize = (13,9))
+            ax7.barh(top_investor.index,top_investor.values)
+            ax7.set_xlabel('No. Of Deals')
+            ax7.set_ylabel('Investor')
+            plt.gca().invert_yaxis()  # highest at top
+            st.pyplot(fig7)
+        
+        #Month vs Year Funding
+        st.subheader('Funding Heatmap by Month and Year')
+        heatmap_data = df.pivot_table(
+            values='Amount',
+            index='Month',
+            columns='Year',
+            aggfunc='sum'
+        )
+        heatmap_data = heatmap_data.drop(columns=2020) #Because only one month data is available for year 2020
+        heatmap_data = heatmap_data.apply(lambda x : x.fillna(x.mean()))
+
+        import seaborn as sns
+
+        fig8, ax8 = plt.subplots(figsize=(10,4))
+        sns.heatmap(heatmap_data, cmap='coolwarm', annot=True, fmt='.0f')
+        plt.title('Total funding amount (in crores) for each Month-Year combination')
+        st.pyplot(fig8)
+
+
         
         
 
@@ -203,7 +291,12 @@ def load_investor_details(investor):
     plt.title('Year On Year Investments',fontsize=12)
     plt.xticks(yearly_investment['Year'])
     st.pyplot(fig5)
-    
+
+    #Top Investors
+    top_inves = df.groupby('Investors')['StartUp'].count().sort_values(ascending=False).head()
+    st.subheader('Top Investor')
+
+  
 
 #Overall Analysis
 if option ==  'Overall Analysis':
