@@ -21,7 +21,7 @@ df['Month']=df['Date'].dt.month #Extracting month from Date column
 #Making sidebar
 st.sidebar.title('Indian Startup Funding Analysis')
 
-option = st.sidebar.selectbox("Select one", ['Overall Analysis','Startup Insights','Investor Insights'])
+option = st.sidebar.selectbox("Select one", ['Overall Analysis','Investor Insights','Startup Insights'])
 
 def load_overall_analysis():
         st.title('Startup Ecosystem Overview')
@@ -295,25 +295,76 @@ def load_investor_details(investor):
     
   
 
+def load_startup_details(startup):
+    st.markdown(
+    f"""
+    <h1 style='text-align: center;'>{selected_startup}</h1>
+    <p style='text-align: center; color: gray;'>Startup Overview</p>
+    """,
+    unsafe_allow_html=True
+)
+
+    col1,col2,col3,col4 = st.columns(4)
+
+    with col1:
+        st.subheader('Investors & Backers')
+        investor = df[df['StartUp'].str.contains(startup)]['Investors'].str.split(',').explode().str.strip().unique()
+        st.metric('Total Investors', len(investor))
+        for i in investor:
+            st.markdown(f"- {i}")
+        
+    with col2:
+        st.subheader('Industry Focus')
+        industry = df[df['StartUp'].str.contains(startup)]['Vertical'].str.split(',').explode().str.strip().unique()
+        for i in industry:
+            st.markdown(f"- {i}")
+
+    
+    with col3:
+        st.subheader('Sub-Sectors')
+        subindustry = df[df['StartUp'].str.contains(startup)]['SubVertical'].str.split(',').explode().str.strip().unique()
+        for i in subindustry:
+            st.markdown(f"- {i}")
+    
+    with col4:
+        st.subheader('Operational Presence')
+        location = df[df['StartUp'].str.contains(startup)]['Location'].str.split(',').explode().str.strip().unique()
+        for i in location:
+            st.markdown(f"- {i}")
+    
+    #Funding round Analysis
+    st.subheader('Funding History')
+    funding_round = df[df['StartUp'].str.contains('Mamaearth')][['Round','Investors','Date']] 
+    st.dataframe(funding_round,hide_index=True)
+
+
+    
+
+
+
 #Overall Analysis
 if option ==  'Overall Analysis':
         load_overall_analysis()
 
-
-#Startup Analysis
-elif option == 'Startup Insights':
-    st.sidebar.selectbox('Select startup', sorted(df['StartUp'].unique().tolist()))
-    btn1 = st.sidebar.button('Find Startup Details')
-    st.title('Startup Insights')
-
 #Investor Analysis
-else:
+elif option == 'Investor Insights':
     selected_investor = st.sidebar.selectbox('Select Investor', sorted(set(df['Investors'].str.split(',').sum())))
     btn2 = st.sidebar.button('Find Investor details')
     st.title('Investor Insights')
 
     if btn2:
         load_investor_details(selected_investor)
+
+#Startup Analysis
+else:
+    selected_startup = st.sidebar.selectbox('Select startup', sorted(df['StartUp'].unique().tolist()))
+    btn1 = st.sidebar.button('Find Startup Details')
+    st.title('Startup Insights')
+
+    if btn1:
+        load_startup_details(selected_startup)
+
+
         
     
 
